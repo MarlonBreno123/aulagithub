@@ -3,7 +3,7 @@ public class App {
         
         String primeiroNome = "Marlon Breno";
         String simbol = "& ";
-        String SegundoNome = "Gabriela Rosa";
+        String SegundoNome = "Gabriela Rosa <3";
 
         String nomeCompleto = nomeCompleto (primeiroNome, simbol, SegundoNome);
 
